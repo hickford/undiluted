@@ -6,9 +6,7 @@
     "type": "git",
     "url": "https://github.com/matt-hickford/undiluted"
   },
-  "directories": {
-   "bin": "bin"
-  },
+  "bin": "bin/undiluted.js",
   "preferGlobal": true,
   "scripts": {
     "prepublish": "coffee --compile --output bin src"

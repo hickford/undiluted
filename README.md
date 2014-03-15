@@ -8,7 +8,7 @@ Installation
 
 Install from npm package registry https://www.npmjs.org/package/undiluted
 
-    $ npm install -g 
+    $ npm install -g undiluted
 
 Usage
 ----
