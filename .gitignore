@@ -1,2 +1,4 @@
-bin/
 node_modules/
+
+# This app is developed in pure CoffeeScript.
+bin/
