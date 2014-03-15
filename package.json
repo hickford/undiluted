@@ -1,0 +1,22 @@
+{
+  "name": "undiluted",
+  "version": "0.0.0",
+  "description": "A 'hello world' app written in 100% CoffeeScript.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matt-hickford/undiluted"
+  },
+  "directories": {
+   "bin": "bin"
+  },
+  "preferGlobal": true,
+  "scripts": {
+    "prepublish": "coffee --compile --output bin src"
+  },
+  "author": "Matt Hickford",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "coffee-script": "*"
+  }
+}
