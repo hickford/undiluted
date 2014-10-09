@@ -29,7 +29,7 @@ The problem is, the coffee-script compile doesn't (and can't be made to) prepend
 Development
 ------
 
-[![Build Status](https://travis-ci.org/matt-hickford/undiluted.png?branch=master)](https://travis-ci.org/matt-hickford/undiluted)
+[![Build Status](https://travis-ci.org/hickford/undiluted.svg?branch=master)](https://travis-ci.org/hickford/undiluted)
 
     $ npm publish
 
